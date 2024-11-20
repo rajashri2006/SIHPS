@@ -10,16 +10,64 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
-
+1. User-Friendly Alumni Portal
+Description: The webpage should feature a dedicated, easy-to-navigate alumni portal where alumni can register, update their profiles, and access resources.
+Key Features:
+Simple and intuitive design for easy navigation.
+Registration and login system for alumni to create or access their profiles.
+Profile management tools to allow alumni to update contact info, career progress, and other personal details.
+Option to control privacy settings for sharing information.
+2. Alumni News, Stories, and Achievements
+Description: Showcase news, achievements, and personal stories of alumni on the homepage or through a dedicated section. This will engage the alumni community and keep them connected to the institution.
+Key Features:
+Sections for alumni news, such as career achievements, new ventures, or awards.
+Regularly updated articles or blog posts about alumni success stories.
+Alumni features, such as "Alumni of the Month," highlighting significant milestones or contributions.
+3. Event Calendar and RSVP System
+Description: Provide a calendar of upcoming events such as reunions, webinars, networking opportunities, or virtual meetups. Include an easy RSVP system to encourage participation.
+Key Features:
+Interactive calendar for upcoming alumni events and activities.
+Event descriptions, dates, times, and venues.
+Online registration or RSVP for events.
+Virtual event integration for global participation.
+4. Fundraising and Donation Integration
+Description: Offer an easy-to-use online platform for alumni to donate to the institution. The webpage can include details on current projects or initiatives that alumni can contribute to.
+Key Features:
+Donation button with options for one-time or recurring contributions.
+Clear explanation of how donations will be used (e.g., scholarships, campus development).
+Recognition system for donors (e.g., alumni donor wall or acknowledgment in newsletters).
+5. Alumni Directory and Networking Tools
+Description: Build an alumni directory to facilitate networking opportunities. This section can help alumni connect with fellow graduates based on industry, location, or profession.
+Key Features:
+Searchable alumni directory with filters (e.g., name, year of graduation, profession).
+Contact options (email, LinkedIn integration).
+Virtual networking tools such as alumni discussion forums, chatrooms, or interest groups.
+These features will create a comprehensive, interactive, and engaging Alumni Association webpage, fostering community building, communication, and continued support for the institution's mission.
 
 ## Proposed Solution / Architecture Diagram
+![alumini1](https://github.com/user-attachments/assets/8faf031e-6e35-475e-bdae-15fb5a90321b)
 
 
 ## Use Cases
+![flowchart](https://github.com/user-attachments/assets/5abada86-5ed5-4f63-b920-eaead8456c6d)
 
 
 ## Technology Stack
+React.js
 
+Node.js
+
+PostgreSQL
+
+Google maps
+
+Firebox Authenticator
+
+Git , Postman or Insomnia
 
 ## Dependencies
+Mapping service- 10 days
 
+Data collection- 10 days
+
+budget- rs.50,000
