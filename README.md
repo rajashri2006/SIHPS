@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:20/11/2024
+## Register Number:24900207
+## Name:RAJASHRI I
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
